@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Music-App-React/static/css/main.ff4a6e44.css",
+    "main.js": "/Music-App-React/static/js/main.c214298f.js",
+    "index.html": "/Music-App-React/index.html",
+    "main.ff4a6e44.css.map": "/Music-App-React/static/css/main.ff4a6e44.css.map",
+    "main.c214298f.js.map": "/Music-App-React/static/js/main.c214298f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4a6e44.css",
+    "static/js/main.c214298f.js"
+  ]
+}
